@@ -7,9 +7,9 @@
 
 ---
 
-### 🌐 About NeuralStack
+### 🌐 About NeuralStack | MS
 
-**NeuralStack** is the hub for engineers operating at the intersection of **Full-Stack Development** and **Artificial Intelligence/Machine Learning**.
+**NeuralStack | MS** is the hub for engineers operating at the intersection of **Full-Stack Development** and **Artificial Intelligence/Machine Learning**.
 
 Bridge the gap, providing modern, practical solutions for integrating powerful AI models (LLMs, Deep Learning) directly into robust, production-ready web applications. If you’re building intelligent, data-driven applications, you’re in the right place.
 
@@ -27,7 +27,7 @@ All public code, templates, and reference architectures from the blog and tutori
 
 ---
 
-### 🚀 Featured Project: The NeuralStack Starter Kit
+### 🚀 Featured Project: The NeuralStack | MS Starter Kit
 
 Check out our most popular repository—the ultimate boilerplate to jumpstart your full-stack AI project.
 
@@ -39,5 +39,5 @@ Check out our most popular repository—the ultimate boilerplate to jumpstart yo
 ### 📰 Stay Connected
 
 * **Read the Blog:** Get in-depth tutorials and insights at our main site.
-    * [**NeuralStack.com**](https://neuralstackms.tech)
+    * [**NeuralStack | MS**](https://neuralstackms.tech)
 
