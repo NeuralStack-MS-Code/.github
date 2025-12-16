@@ -39,5 +39,5 @@ Check out our most popular repository—the ultimate boilerplate to jumpstart yo
 ### 📰 Stay Connected
 
 * **Read the Blog:** Get in-depth tutorials and insights at our main site.
-    * [**NeuralStack.com**](https://neuralstack.com)
+    * [**NeuralStack.com**](https://neuralstackms.tech)
 
