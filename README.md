@@ -48,10 +48,9 @@ Technical deep dive into **Sentinel-LLM** — an open-source, three-layer detect
 ### Agentic AI & LLM Engineering
 *Earlier work covering agentic system design, LLM tooling, and Python-based AI development.*
 
-Selected articles from the blog's foundational phase (October 2025 onward):
+Selected article from the blog's foundational phase (October 2025 onward):
 
 - [Beginner's Guide to Using Agentic AI in Python](https://neuralstackms.tech/beginners-guide-to-using-agentic-ai-in-python) — LangChain agent setup with tool integration
-- [What to Expect from My Tech Blog and Why I'm Starting It](https://neuralstackms.tech/what-to-expect-from-my-new-tech-blog-and-why-im-starting-it) — founding statement and content roadmap
 
 → Full archive at [neuralstackms.tech](https://neuralstackms.tech)
 
