@@ -5,7 +5,7 @@ cuid: cmqyxzxwh00000ajb6q5p1pc7
 slug: data-provenance-lineage-governance-as-ai-security-controls
 cover: https://cdn.hashnode.com/uploads/covers/68e922a757e675c5840506dd/b69669dd-9a6a-4d94-b1b4-72eb38d84d38.png
 ogImage: https://cdn.hashnode.com/uploads/og-images/68e922a757e675c5840506dd/6a2577ac-2446-4daa-8ea4-aa559a2fbae8.png
-tags: dataprovenance, datagovernance, data-lineage, differential-privacy, neuralstackms, aisecurityengineering
+tags: dataprovenance, datagovernance, data-lineage, aisecurity, differential-privacy, neuralstackms, aisecurityengineering
 
 ---
 
