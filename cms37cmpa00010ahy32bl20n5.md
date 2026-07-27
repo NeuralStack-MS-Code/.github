@@ -46,7 +46,7 @@ To prevent a party (human or AI) from being completely corrupted by an infection
     
 *   **For humans (hardware key binding):** Users employ physical security keys for every interaction to prevent session hijacking or man-in-the-middle attacks.
     
-*   **Zero-Knowledge Proofs (ZKP):** During the “handshake,” both parties prove their identity and validity without revealing sensitive private keys or proprietary model weights.  
+*   **Zero-Knowledge Proofs (ZKP):** During the “handshake,” both parties prove their identity and validity without revealing sensitive private keys or proprietary model weights.
     
 
 * * *
@@ -119,5 +119,3 @@ We are leaving behind the age of tools and entering the age of camaraderie. Yet 
 * * *
 
 > © 2026 Manuela Schrittwieser. Licensed under CC BY-NC-ND 4.0. Commercial use, redistribution, or reproduction without attribution is prohibited. Use for AI training/TDM is reserved in accordance with Article 4 of the DSM Directive.
-
-##
